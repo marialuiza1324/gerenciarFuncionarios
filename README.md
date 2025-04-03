@@ -3,6 +3,8 @@
 O **Gerenciador de Funcionários** é um aplicativo desenvolvido em Java, proposto na matéria de Programação Orientada à Objetos III, para aprendizado do padrão de projeto MVC, persistência e gerenciamento de dados em arquvos e o uso de Collections.
 O **Gerenciador de Funcionários** tem como intuito listar os dados de funcionários armazenados em um arquivo .txt, sendo possível o cadastro de novos funcionários e busca pelos mesmos. A ideia é interagir com o arquivo apenas no começo e no final da execução do programa, gerenciando os dados através de Collections.
 
+Desenvolvido por Maria Luiza e Maria Eduarda Furini
+
 ## 📋 Índice
 1. [Introdução](#introdução)
 2. [Visão Geral](#visão-geral)
